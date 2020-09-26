@@ -1,3 +1,6 @@
 [submodule "mini-p-stock-backend"]
 	path = mini-p-stock-backend
 	url = https://github.com/Yomna-Hesham/mini-p-stock-backend
+[submodule "mini-p-stock-database"]
+	path = mini-p-stock-database
+	url = https://github.com/Yomna-Hesham/mini-p-stock-database
